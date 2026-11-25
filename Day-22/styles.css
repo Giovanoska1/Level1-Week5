@@ -1,0 +1,22 @@
+/* TODO: Add your page's spacing, readable text, and responsive layout. */
+/* Check the result around 320px and 1280px wide. */
+body {
+  font-family: Arial, sans-serif;
+  margin:0;
+  padding: 16px;
+   max-width: 70rem;
+  margin-inline: auto;
+}
+h1{
+  font-size: 18px;
+text-align: center;
+}
+p{
+  font-size: 14px;
+  line-height: 1.5;
+  text-align: left;
+}
+h2{
+  font-size: 16px;
+  text-align: center;
+}
